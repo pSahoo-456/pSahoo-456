@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psahoo-456&label=Profile%20views&color=0e75b6&style=flat" alt="psahoo-456" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psahoo-456" alt="psahoo-456" /></a> </p>
+
 
 - 🔭 I’m currently working on **ML/DL projects focused on real-world applications**
 
