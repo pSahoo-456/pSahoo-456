@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **ML/DL projects focused on real-world applications**
 
-- 🌱 I’m currently learning **LangChain and LangGraph for LLM workflows and AI Deployment with Streamlit, FastAPI, and Django**
+- 🌱 I’m currently learning **LangChain and LangGraph for LLM workflows**
 
 - 👯 I’m looking to collaborate on **AI/ML and Generative AI projects and Research in this domain**
 
