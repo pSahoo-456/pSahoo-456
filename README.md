@@ -1,23 +1,22 @@
 <h1 align="center">Hi 👋, I'm Prakash Sahoo</h1>
-<h3 align="center">AI/ML Enthusiast | BTech Pre-final Year Student</h3>
+<h3 align="center">AI/ML Enthusiast | BTech final Year Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psahoo-456&label=Profile%20views&color=0e75b6&style=flat" alt="psahoo-456" /> </p>
 
 
 
-- 🔭 I’m currently working on **ML/DL projects focused on real-world applications**
+- I’m currently working on **ML/DL projects focused on real-world applications**
 
-- 🌱 I’m currently learning **LangChain and LangGraph for LLM workflows**
+- I’m currently learning **LangChain and LangGraph for LLM workflows**
 
-- 👯 I’m looking to collaborate on **AI/ML and Generative AI projects and Research in this domain**
+- I’m looking to collaborate on **AI/ML and Generative AI projects and Research in this domain**
 
-- 🤝 I’m looking for help with **Expert guidance in ML, DL, and GenAI domains**
+- I’m looking for help with **Expert guidance in ML, DL, and GenAI domains**
 
-- 📫 How to reach me **prakash2004sahoo@gmail.com**
+- How to reach me **prakash2004sahoo@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/19Gj7WaFYfZMJaFAJljoubRUatuacrqX2/edit?usp=sharing&ouid=116644183685177782917&rtpof=true&sd=true](https://docs.google.com/document/d/19Gj7WaFYfZMJaFAJljoubRUatuacrqX2/edit?usp=sharing&ouid=116644183685177782917&rtpof=true&sd=true)
 
-- ⚡ Fun fact **My ML models sleep less than I do during hackathons😴🤖**
+- Fun fact **My ML models sleep less than I do during hackathons😴🤖**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
