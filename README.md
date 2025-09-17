@@ -11,10 +11,7 @@
 
 - I’m looking to collaborate on **AI/ML and Generative AI projects and Research in this domain**
 
-- I’m looking for help with **Expert guidance in ML, DL, and GenAI domains**
-
 - How to reach me **prakash2004sahoo@gmail.com**
-
 
 - Fun fact **My ML models sleep less than I do during hackathons😴🤖**
 
