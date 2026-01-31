@@ -5,11 +5,11 @@
 
 
 
-- I’m currently working on **ML/DL projects focused on real-world applications**
+- I'm currently building **RAG (Retrieval Augmented Generation) systems for enterprise applications**
 
-- I’m currently learning **LangChain and LangGraph for LLM workflows**
+- I'm currently learning **AI Agents development and advanced LLM orchestration techniques**
 
-- I’m looking to collaborate on **AI/ML and Generative AI projects and Research in this domain**
+- I'm looking to collaborate on **Cutting-edge AI/ML projects focusing on GenAI, RAG architectures, and AI Agent implementations**
 
 - How to reach me **prakash2004sahoo@gmail.com**
 
