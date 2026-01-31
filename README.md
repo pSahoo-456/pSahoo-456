@@ -5,7 +5,7 @@
 
 
 
-- I'm currently building **RAG (Retrieval Augmented Generation) systems for enterprise applications**
+- I'm currently building **RAG (Retrieval Augmented Generation) systems for real world applications**
 
 - I'm currently learning **AI Agents development and advanced LLM orchestration techniques**
 
